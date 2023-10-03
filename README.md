@@ -1,4 +1,4 @@
-<h1 align="center">full-stack developer & AI Enthusiast</h3>
+<h1 align="center">Full-stack Developer & AI Enthusiast</h3>
 - 👋 Hi, I’m @SkilledDev
 <!-- - 📫 How to reach me: webmiraclepro@gmail.com -->
 
